@@ -15,5 +15,4 @@ Test through inputs and outputs
 | Input a| Output AND|
 | 0       | 0        |
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Not applicable
