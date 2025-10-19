@@ -8,13 +8,12 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
-
+Tests OR Gates in a simple circuit 
 ## How to test
+Test through inputs and outputs
 
-Explain how to use your project
-
+| Input a| Output AND|
+| 0       | 0        |
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
